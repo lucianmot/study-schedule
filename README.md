@@ -19,17 +19,17 @@ Sprint end date: 05/12/2022
 | Coding Challenge no.1 | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 20/11/2022 | :x: |
 | Strings and Templates Literals | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 20/11/2022 | :x: |
 | Taking Decisions: if / else Statements | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 20/11/2022 | :x: |
-| Coding Challenge no. 2 | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 20/11/2022 | :x: |
-| Type Conversion and Coercion | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 20/11/2022 | :x: |
-| Truthy and Falsy Values | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 20/11/2022 | :x: |
-| Equality Operators: == vs. === | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 20/11/2022 | :x: |
-| Boolean Logic | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 20/11/2022 | :x: |
-| Logical Operators | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 20/11/2022 | :x: |
-| Coding Challenge no. 3 | Content Cell | 20/11/2022 | :x: |
-| The switch Statement | Content Cell | 20/11/2022 | :x: |
-| Statements and Expressions | Content Cell | 20/11/2022 | :x: |
-| The conditional (Ternary) Operator | Content Cell | 20/11/2022 | :x: |
-| Coding Challenge no. 4 | Content Cell | 20/11/2022 | :x: |
-| Javascript Releases: ES5, ES6+ and ESNext | Content Cell | 20/11/2022 | :x: |
+| Coding Challenge no. 2 | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 21/11/2022 | :x: |
+| Type Conversion and Coercion | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 21/11/2022 | :x: |
+| Truthy and Falsy Values | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 21/11/2022 | :x: |
+| Equality Operators: == vs. === | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 21/11/2022 | :x: |
+| Boolean Logic | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 21/11/2022 | :x: |
+| Logical Operators | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 21/11/2022 | :x: |
+| Coding Challenge no. 3 | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 21/11/2022 | :x: |
+| The switch Statement | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 21/11/2022 | :x: |
+| Statements and Expressions | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 21/11/2022 | :x: |
+| The conditional (Ternary) Operator | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 21/11/2022 | :x: |
+| Coding Challenge no. 4 | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 21/11/2022 | :x: |
+| Javascript Releases: ES5, ES6+ and ESNext | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 21/11/2022 | :x: |
 | :tada:LEVEL:up: | Section 3 | JavaScript Fundamentals  | Part 2 |
-| Section Intro | Content Cell | 20/11/2022 | :x: |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 21/11/2022 | :x: |
