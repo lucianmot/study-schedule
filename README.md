@@ -10,12 +10,12 @@ Sprint end date: 05/12/2022
 | Hello World! | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648117#overview) | 20/11/2022 | :white_check_mark: |
 | A Brief Intro to Javascript | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648123#overview) | 20/11/2022 | :white_check_mark: |
 | Linking a JavaScript File | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648127#overview) | 20/11/2022 | :white_check_mark: |
-| Values and Variables | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648135#overview) | 20/11/2022 | :x: |
-| Practice Assigments | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 20/11/2022 | :x: |
-| Data Types | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648141#overview) | 20/11/2022 | :x: |
-| let, const and var | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648145#overview) | 20/11/2022 | :x: |
-| Basic Operators | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648147#overview) | 20/11/2022 | :x: |
-| Operators Precedence | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648153#overview) | 20/11/2022 | :x: |
+| Values and Variables | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648135#overview) | 20/11/2022 | :white_check_mark: |
+| Practice Assigments | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22846813#overview) | 20/11/2022 | :white_check_mark: |
+| Data Types | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648141#overview) | 20/11/2022 | :white_check_mark: |
+| let, const and var | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648145#overview) | 20/11/2022 | :white_check_mark: |
+| Basic Operators | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648147#overview) | 20/11/2022 | :white_check_mark: |
+| Operators Precedence | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648153#overview) | 20/11/2022 | :white_check_mark: |
 | Coding Challenge no.1 | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648161#overview) | 20/11/2022 | :x: |
 | Strings and Templates Literals | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648167#overview) | 20/11/2022 | :x: |
 | Taking Decisions: if / else Statements | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648173#overview) | 20/11/2022 | :x: |
