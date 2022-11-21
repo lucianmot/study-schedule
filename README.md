@@ -16,7 +16,7 @@ Sprint end date: 05/12/2022
 | let, const and var | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648145#overview) | 20/11/2022 | :white_check_mark: |
 | Basic Operators | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648147#overview) | 20/11/2022 | :white_check_mark: |
 | Operators Precedence | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648153#overview) | 20/11/2022 | :white_check_mark: |
-| Coding Challenge no.1 | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648161#overview) | 20/11/2022 | :x: |
+| Coding Challenge no.1 | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648161#overview) | 20/11/2022 | :white_check_mark: |
 | Strings and Templates Literals | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648167#overview) | 20/11/2022 | :x: |
 | Taking Decisions: if / else Statements | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648173#overview) | 20/11/2022 | :x: |
 | Coding Challenge no. 2 | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648177#overview) | 21/11/2022 | :x: |
