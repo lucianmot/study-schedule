@@ -47,3 +47,10 @@ Sprint end date: 05/12/2022
 | Dot vs. Bracket Notation | - | 23/11/2022 | :x: |
 | Object Methods | - | 23/11/2022 | :x: |
 | Coding Challenge no. 3 | - | 23/11/2022 | :x: |
+| Iteration: The for Loop | - | 23/11/2022 | :x: |
+| Loop Arrays, Breaking and Continuing | - | 23/11/2022 | :x: |
+| Looping Backwards and Loops in Loops | - | 23/11/2022 | :x: |
+| The while Loop | - | 23/11/2022 | :x: |
+| Coding Challenge no. 4 | - | 23/11/2022 | :x: |
+| :tada:LEVEL:up: | Section 4 | How to Navigate  | This Course |
+| Pathways and Section Roadmaps | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648323#overview) | 21/11/2022 | :x: |
