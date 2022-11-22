@@ -25,15 +25,15 @@ Sprint end date: 05/12/2022
 | Equality Operators: == vs. === | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648183#overview) | 21/11/2022 | :white_check_mark: |
 | Boolean Logic | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648189#overview) | 21/11/2022 | :white_check_mark: |
 | Logical Operators | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648191#overview) | 21/11/2022 | :white_check_mark: |
-| Coding Challenge no. 3 | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648193#overview) | 21/11/2022 | :x: |
-| The switch Statement | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648197#overview) | 21/11/2022 | :x: |
-| Statements and Expressions | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648199#overview) | 21/11/2022 | :x: |
-| The conditional (Ternary) Operator | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648205#overview) | 21/11/2022 | :x: |
-| Coding Challenge no. 4 | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648207#overview) | 21/11/2022 | :x: |
-| Javascript Releases: ES5, ES6+ and ESNext | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648209#overview) | 21/11/2022 | :x: |
+| Coding Challenge no. 3 | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648193#overview) | 21/11/2022 | :white_check_mark: |
+| The switch Statement | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648197#overview) | 21/11/2022 | :white_check_mark: |
+| Statements and Expressions | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648199#overview) | 21/11/2022 | :white_check_mark: |
+| The conditional (Ternary) Operator | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648205#overview) | 21/11/2022 | :white_check_mark: |
+| Coding Challenge no. 4 | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648207#overview) | 21/11/2022 | :white_check_mark: |
+| Javascript Releases: ES5, ES6+ and ESNext | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648209#overview) | 21/11/2022 | :white_check_mark: |
 | :tada:LEVEL:up: | Section 3 | JavaScript Fundamentals  | Part 2 |
-| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648213#overview) | 21/11/2022 | :x: |
-| Activating Strict Mode | - | 22/11/2022 | :x: |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648213#overview) | 21/11/2022 | :white_check_mark: |
+| Activating Strict Mode | - | 22/11/2022 | :white_check_mark: |
 | Functions | - | 22/11/2022 | :x: |
 | Function Declarations vs. Expressions | - | 22/11/2022 | :x: |
 | Arrow Functions | - | 22/11/2022 | :x: |
