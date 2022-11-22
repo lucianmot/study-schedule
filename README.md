@@ -53,4 +53,24 @@ Sprint end date: 05/12/2022
 | The while Loop | - | 23/11/2022 | :x: |
 | Coding Challenge no. 4 | - | 23/11/2022 | :x: |
 | :tada:LEVEL:up: | Section 4 | How to Navigate  | This Course |
-| Pathways and Section Roadmaps | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648323#overview) | 21/11/2022 | :x: |
+| Pathways and Section Roadmaps | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648323#overview) | 23/11/2022 | :x: |
+| Course Pathways | - | 24/11/2022 | :x: |
+| :tada:LEVEL:up: | Section 5 | Developer Skills & | Editor Setup |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648337#overview) | 24/11/2022 | :x: |
+| Section Roadmap | - | 24/11/2022 | :x: |
+| Setting up Prettier and VS Code | - | 24/11/2022 | :x: |
+| Installing Node.js and Setting Up a Dev Environment | - | 24/11/2022 | :x: |
+| Learning How to Code | - | 24/11/2022 | :x: |
+| How to Think Like a Developer: Become a Problem Solver | - | 24/11/2022 | :x: |
+| Using Google, StackOverflow and MDN | - | 24/11/2022 | :x: |
+| Debugging (Fixing Errors) | - | 25/11/2022 | :x: |
+| Debugging with the Console and Breakpoints | - | 25/11/2022 | :x: |
+| Coding Challenge no. 1 | - | 25/11/2022 | :x: |
+| :tada:LEVEL:up: | Section 6 | HTML & CSS | Crash Course |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648377#overview) | 25/11/2022 | :x: |
+| Basic HTML Structures and Elements | - | 25/11/2022 | :x: |
+| Attributes, Classes and IDs | - | 25/11/2022 | :x: |
+| Basic Styling with CSS | - | 25/11/2022 | :x: |
+| Introduction to the CSS Box Model | - | 25/11/2022 | :x: |
+| :tada:LEVEL:up: | Section 7 | JavaScript in the Browser | DOM and Events Fundamentals |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648401#overview) | 25/11/2022 | :x: |
