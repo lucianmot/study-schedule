@@ -42,14 +42,14 @@ Sprint end date: 05/12/2022
 | Coding Challenge no. 1 | - | 22/11/2022 | :white_check_mark: |
 | Introduction to Arrays | - | 22/11/2022 | :white_check_mark: |
 | Basic Array Operations(Methods) | - | 22/11/2022 | :white_check_mark: |
-| Coding Challenge no. 2 | - | 23/11/2022 | :x: |
-| Introduction to Objects | - | 23/11/2022 | :x: |
-| Dot vs. Bracket Notation | - | 23/11/2022 | :x: |
+| Coding Challenge no. 2 | - | 23/11/2022 | :white_check_mark: |
+| Introduction to Objects | - | 23/11/2022 | :white_check_mark: |
+| Dot vs. Bracket Notation | - | 23/11/2022 | :white_check_mark: |
 | Object Methods | - | 23/11/2022 | :x: |
 | Coding Challenge no. 3 | - | 23/11/2022 | :x: |
-| Iteration: The for Loop | - | 23/11/2022 | :x: |
-| Loop Arrays, Breaking and Continuing | - | 23/11/2022 | :x: |
-| Looping Backwards and Loops in Loops | - | 23/11/2022 | :x: |
+| Iteration: The for Loop | - | 23/11/2022 | :white_check_mark: |
+| Loop Arrays, Breaking and Continuing | - | 23/11/2022 | :white_check_mark: |
+| Looping Backwards and Loops in Loops | - | 23/11/2022 | :white_check_mark: |
 | The while Loop | - | 23/11/2022 | :x: |
 | Coding Challenge no. 4 | - | 23/11/2022 | :x: |
 | :tada:LEVEL:up: | Section 4 | How to Navigate  | This Course |
