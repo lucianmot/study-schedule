@@ -34,14 +34,14 @@ Sprint end date: 05/12/2022
 | :tada:LEVEL:up: | Section 3 | JavaScript Fundamentals  | Part 2 |
 | Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648213#overview) | 21/11/2022 | :white_check_mark: |
 | Activating Strict Mode | - | 22/11/2022 | :white_check_mark: |
-| Functions | - | 22/11/2022 | :x: |
-| Function Declarations vs. Expressions | - | 22/11/2022 | :x: |
-| Arrow Functions | - | 22/11/2022 | :x: |
-| Functions Calling Other Functions | - | 22/11/2022 | :x: |
-| Reviewing Functions | - | 22/11/2022 | :x: |
-| Coding Challenge no. 1 | - | 22/11/2022 | :x: |
-| Introduction to Arrays | - | 22/11/2022 | :x: |
-| Basic Array Operations(Methods) | - | 22/11/2022 | :x: |
+| Functions | - | 22/11/2022 | :white_check_mark: |
+| Function Declarations vs. Expressions | - | 22/11/2022 | :white_check_mark: |
+| Arrow Functions | - | 22/11/2022 | :white_check_mark: |
+| Functions Calling Other Functions | - | 22/11/2022 | :white_check_mark: |
+| Reviewing Functions | - | 22/11/2022 | :white_check_mark: |
+| Coding Challenge no. 1 | - | 22/11/2022 | :white_check_mark: |
+| Introduction to Arrays | - | 22/11/2022 | :white_check_mark: |
+| Basic Array Operations(Methods) | - | 22/11/2022 | :white_check_mark: |
 | Coding Challenge no. 2 | - | 23/11/2022 | :x: |
 | Introduction to Objects | - | 23/11/2022 | :x: |
 | Dot vs. Bracket Notation | - | 23/11/2022 | :x: |
