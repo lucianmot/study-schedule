@@ -45,20 +45,20 @@ Sprint end date: 05/12/2022
 | Coding Challenge no. 2 | - | 23/11/2022 | :white_check_mark: |
 | Introduction to Objects | - | 23/11/2022 | :white_check_mark: |
 | Dot vs. Bracket Notation | - | 23/11/2022 | :white_check_mark: |
-| Object Methods | - | 23/11/2022 | :x: |
-| Coding Challenge no. 3 | - | 23/11/2022 | :x: |
+| Object Methods | - | 23/11/2022 | :white_check_mark: |
+| Coding Challenge no. 3 | - | 23/11/2022 | :white_check_mark: |
 | Iteration: The for Loop | - | 23/11/2022 | :white_check_mark: |
 | Loop Arrays, Breaking and Continuing | - | 23/11/2022 | :white_check_mark: |
 | Looping Backwards and Loops in Loops | - | 23/11/2022 | :white_check_mark: |
-| The while Loop | - | 23/11/2022 | :x: |
-| Coding Challenge no. 4 | - | 23/11/2022 | :x: |
+| The while Loop | - | 23/11/2022 | :white_check_mark: |
+| Coding Challenge no. 4 | - | 23/11/2022 | :white_check_mark: |
 | :tada:LEVEL:up: | Section 4 | How to Navigate  | This Course |
-| Pathways and Section Roadmaps | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648323#overview) | 23/11/2022 | :x: |
-| Course Pathways | - | 24/11/2022 | :x: |
+| Pathways and Section Roadmaps | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648323#overview) | 23/11/2022 | :white_check_mark: |
+| Course Pathways | - | 24/11/2022 | :white_check_mark: |
 | :tada:LEVEL:up: | Section 5 | Developer Skills & | Editor Setup |
-| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648337#overview) | 24/11/2022 | :x: |
-| Section Roadmap | - | 24/11/2022 | :x: |
-| Setting up Prettier and VS Code | - | 24/11/2022 | :x: |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648337#overview) | 24/11/2022 | :white_check_mark: |
+| Section Roadmap | - | 24/11/2022 | :white_check_mark: |
+| Setting up Prettier and VS Code | - | 24/11/2022 | :white_check_mark: |
 | Installing Node.js and Setting Up a Dev Environment | - | 24/11/2022 | :x: |
 | Learning How to Code | - | 24/11/2022 | :x: |
 | How to Think Like a Developer: Become a Problem Solver | - | 24/11/2022 | :x: |
