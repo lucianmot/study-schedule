@@ -59,7 +59,7 @@ Sprint end date: 05/12/2022
 | Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648337#overview) | 24/11/2022 | :white_check_mark: |
 | Section Roadmap | - | 24/11/2022 | :white_check_mark: |
 | Setting up Prettier and VS Code | - | 24/11/2022 | :white_check_mark: |
-| Installing Node.js and Setting Up a Dev Environment | - | 24/11/2022 | :x: |
+| Installing Node.js and Setting Up a Dev Environment | - | 24/11/2022 | :white_check_mark: |
 | Learning How to Code | - | 24/11/2022 | :x: |
 | How to Think Like a Developer: Become a Problem Solver | - | 24/11/2022 | :x: |
 | Using Google, StackOverflow and MDN | - | 24/11/2022 | :x: |
