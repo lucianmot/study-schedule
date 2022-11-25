@@ -61,7 +61,7 @@ Sprint end date: 05/12/2022
 | Setting up Prettier and VS Code | - | 24/11/2022 | :white_check_mark: |
 | Installing Node.js and Setting Up a Dev Environment | - | 24/11/2022 | :white_check_mark: |
 | Learning How to Code | - | 24/11/2022 | :white_check_mark: |
-| How to Think Like a Developer: Become a Problem Solver | - | 24/11/2022 | :x: |
+| How to Think Like a Developer: Become a Problem Solver | - | 24/11/2022 | :white_check_mark: |
 | Using Google, StackOverflow and MDN | - | 24/11/2022 | :x: |
 | Debugging (Fixing Errors) | - | 25/11/2022 | :x: |
 | Debugging with the Console and Breakpoints | - | 25/11/2022 | :x: |
