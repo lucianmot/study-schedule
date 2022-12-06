@@ -1,7 +1,7 @@
 # Study Schedule for this sprint
 
-Sprint start date: 20/11/2022
-Sprint end date: 05/12/2022
+Sprint start date: 06/12/2022
+Sprint end date: 23/12/2022
 
 | Lesson Name  | Section Link | Date Scheduled  | Completed |
 | :-------------: | :-------------: | :-------------: | :-------------: |
@@ -193,4 +193,3 @@ Sprint end date: 05/12/2022
 | Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648929#overview) | 12/12/2022 | :x: |
 | Section Roadmap | - | 13/12/2022 | :x: |
 | PROJECT: "Bankist" Website | - | 13/12/2022 | :x: |
-
