@@ -62,15 +62,135 @@ Sprint end date: 05/12/2022
 | Installing Node.js and Setting Up a Dev Environment | - | 24/11/2022 | :white_check_mark: |
 | Learning How to Code | - | 24/11/2022 | :white_check_mark: |
 | How to Think Like a Developer: Become a Problem Solver | - | 24/11/2022 | :white_check_mark: |
-| Using Google, StackOverflow and MDN | - | 24/11/2022 | :x: |
-| Debugging (Fixing Errors) | - | 25/11/2022 | :x: |
+| Using Google, StackOverflow and MDN | - | 06/12/2022 | :x: |
+| Debugging (Fixing Errors) | - | 06/12/2022 | :x: |
 | Debugging with the Console and Breakpoints | - | 25/11/2022 | :x: |
-| Coding Challenge no. 1 | - | 25/11/2022 | :x: |
+| Coding Challenge no. 1 | - | 06/12/2022 | :x: |
 | :tada:LEVEL:up: | Section 6 | HTML & CSS | Crash Course |
-| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648377#overview) | 25/11/2022 | :x: |
-| Basic HTML Structures and Elements | - | 25/11/2022 | :x: |
-| Attributes, Classes and IDs | - | 25/11/2022 | :x: |
-| Basic Styling with CSS | - | 25/11/2022 | :x: |
-| Introduction to the CSS Box Model | - | 25/11/2022 | :x: |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648377#overview) | 06/12/2022 | :x: |
+| Basic HTML Structures and Elements | - | 06/12/2022 | :x: |
+| Attributes, Classes and IDs | - | 06/12/2022 | :x: |
+| Basic Styling with CSS | - | 06/12/2022 | :x: |
+| Introduction to the CSS Box Model | - | 06/12/2022 | :x: |
 | :tada:LEVEL:up: | Section 7 | JavaScript in the Browser | DOM and Events Fundamentals |
-| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648401#overview) | 25/11/2022 | :x: |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648401#overview) | 06/12/2022 | :x: |
+| Section Roadmap | - | 07/12/2022 | :x: |
+| PROJECT #1: Guess My Number! | - | 07/12/2022 | :x: |
+| What's the DOM and DOM Manipulation | - | 07/12/2022 | :x: |
+| Selecting and Manipulating Elements | - | 07/12/2022 | :x: |
+| Handling Click Events | - | 07/12/2022 | :x: |
+| Implementing the Game Logic | - | 07/12/2022 | :x: |
+| Manipulating CSS Styles | - | 07/12/2022 | :x: |
+| Coding Challenger #1 | - | 07/12/2022 | :x: |
+| Implementing Highscores | - | 07/12/2022 | :x: |
+| Refactoring Our Code: The DRY Principles | - | 07/12/2022 | :x: |
+| PROJECT #2: Modal Window | - | 07/12/2022 | :x: |
+| Working With Classes | - | 07/12/2022 | :x: |
+| Handling an "Esc" Keypress Event | - | 07/12/2022 | :x: |
+| PROJECT #3: Pig Game | - | 07/12/2022 | :x: |
+| Rolling the Dice | - | 07/12/2022 | :x: |
+| Switching the Active Player | - | 07/12/2022 | :x: |
+| Holding Current Score | - | 07/12/2022 | :x: |
+| Resetting the Game | - | 07/12/2022 | :x: |
+| :tada:LEVEL:up: | Section 8 | How JavaScript Works | Behind the Scenes |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648465#overview) | 07/12/2022 | :x: |
+| Section Roadmap | - | 08/12/2022 | :x: |
+| An High-Level Overview of JavaScript | - | 08/12/2022 | :x: |
+| The JavaScript Engine and Runtime | - | 08/12/2022 | :x: |
+| Execution Contexts and The Call Stack | - | 08/12/2022 | :x: |
+| Scope and the Scope Chain | - | 08/12/2022 | :x: |
+| Scoping in Practice | - | 08/12/2022 | :x: |
+| Variable Environemnt: Hoisting and the TDZ | - | 08/12/2022 | :x: |
+| The this Keyword | - | 08/12/2022 | :x: |
+| The this Keyword in Practice | - | 08/12/2022 | :x: |
+| Regular Functions vs. Arrows Functions | - | 08/12/2022 | :x: |
+| Primitives vs Objects (Primiteive vs. Reference Types) | - | 08/12/2022 | :x: |
+| Primitives vs. Objects in Practice | - | 08/12/2022 | :x: |
+| :tada:LEVEL:up: | Section 9 | Data Structures | Modern Operators and Strings |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648519#overview) | 08/12/2022 | :x: |
+| Section Roadmap | - | 08/12/2022 | :x: |
+| Destructuring Arrays | - | 08/12/2022 | :x: |
+| Destructuring Objects | - | 08/12/2022 | :x: |
+| The Spread Operator(...) | - | 08/12/2022 | :x: |
+| Rest Pattern and Parameters | - | 08/12/2022 | :x: |
+| Short Circuting(&& and ||) | - | 09/12/2022 | :x: |
+| The Nullish Coalescing Operator(??) | - | 09/12/2022 | :x: |
+| Logical Assignment Operators | - | 09/12/2022 | :x: |
+| Coding Challenge #1 | - | 09/12/2022 | :x: |
+| Looping Arrays: The for-of Loop | - | 09/12/2022 | :x: |
+| Enhanced Objects Literals | - | 09/12/2022 | :x: |
+| Optional Chaining (?.) | - | 09/12/2022 | :x: |
+| Looping Objects: Object Keys, Values, and Entries | - | 09/12/2022 | :x: |
+| Coding Challenge #2 | - | 09/12/2022 | :x: |
+| Sets | - | 09/12/2022 | :x: |
+| Maps: Fundamentals | - | 09/12/2022 | :x: |
+| Maps: Iteration | - | 09/12/2022 | :x: |
+| Summary: Which Data Structure to Use? | - | 09/12/2022 | :x: |
+| Coding Challenge #3 | - | 09/12/2022 | :x: |
+| Working With Strings - Part 1 | - | 09/12/2022 | :x: |
+| Working With Strings - Part 2 | - | 09/12/2022 | :x: |
+| Working With Strings - Part 3 | - | 09/12/2022 | :x: |
+| Coding Challenge #4 | - | 09/12/2022 | :x: |
+| String Methods Practice | - | 09/12/2022 | :x: |
+| :tada:LEVEL:up: | Section 10 | A Closer | Look at Functions |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648639#overview) | 09/12/2022 | :x: |
+| Section Roadmap | - | 10/12/2022 | :x: |
+| Default Parameters | - | 10/12/2022 | :x: |
+| How Passing Arguments Work: Value vs. Reference | - | 10/12/2022 | :x: |
+| First-Class and Higher-Order Functions | - | 10/12/2022 | :x: |
+| Functions Accepting Callback Functions | - | 10/12/2022 | :x: |
+| Functions Returning Functions | - | 10/12/2022 | :x: |
+| The call and apply Methods | - | 10/12/2022 | :x: |
+| The bind Method | - | 10/12/2022 | :x: |
+| Coding Challenge #1 | - | 10/12/2022 | :x: |
+| Immediately Invoked Function Expressions(IIFE) | - | 10/12/2022 | :x: |
+| Closures | - | 10/12/2022 | :x: |
+| More Closure Examples | - | 10/12/2022 | :x: |
+| Coding Challenge #2 | - | 10/12/2022 | :x: |
+| :tada:LEVEL:up: | Section 11 | Working | With Arrays |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648701#overview) | 10/12/2022 | :x: |
+| Section Roadmap | - | 10/12/2022 | :x: |
+| Simple Array Methods | - | 10/12/2022 | :x: |
+| The new at Method | - | 10/12/2022 | :x: |
+| Looping Arrays: forEach | - | 10/12/2022 | :x: |
+| forEach With Maps and Sets | - | 10/12/2022 | :x: |
+| PROJECT: "Bankist" App | - | 10/12/2022 | :x: |
+| Creating DOM Elements | - | 10/12/2022 | :x: |
+| Coding Challenge #1 | - | 10/12/2022 | :x: |
+| Data Transformations: Map, filter, reduce | - | 11/12/2022 | :x: |
+| The map Method | - | 11/12/2022 | :x: |
+| Computing Usernames | - | 11/12/2022 | :x: |
+| The filter Method | - | 11/12/2022 | :x: |
+| the reduce Method | - | 11/12/2022 | :x: |
+| Coding Challenge #2 | - | 11/12/2022 | :x: |
+| The Magic of Chaining Methods | - | 11/12/2022 | :x: |
+| Coding Challenge #3 | - | 11/12/2022 | :x: |
+| The find Method | - | 11/12/2022 | :x: |
+| Implementing Login | - | 11/12/2022 | :x: |
+| Implementing Transfers | - | 11/12/2022 | :x: |
+| The findIndex Method | - | 11/12/2022 | :x: |
+| some and every | - | 11/12/2022 | :x: |
+| flat and flatMap | - | 11/12/2022 | :x: |
+| Sorting Arrays | - | 11/12/2022 | :x: |
+| More Ways of Creaing and Filling Arrays | - | 11/12/2022 | :x: |
+| Summary: Which Array Method to Use? | - | 11/12/2022 | :x: |
+| Arrays Methods Practice | - | 11/12/2022 | :x: |
+| Coding Challenge #4 | - | 12/12/2022 | :x: |
+| :tada:LEVEL:up: | Section 12 | Number, Dates, | Intl and Timers |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648701#overview) | 12/12/2022 | :x: |
+| Section Roadmap | - | 12/12/2022 | :x: |
+| Converting and Checking Numbers | - | 12/12/2022 | :x: |
+| Math and Rounding | - | 12/12/2022 | :x: |
+| The Remainder Operator | - | 12/12/2022 | :x: |
+| Numeric Separators | - | 12/12/2022 | :x: |
+| Working with BigInt| - | 12/12/2022 | :x: |
+| Adding Dates to "Bankist App" | - | 12/12/2022 | :x: |
+| Operations With Dates | - | 12/12/2022 | :x: |
+| Internationalizing Number (Intl) | - | 12/12/2022 | :x: |
+| Timers: setTimeout and setInterval | - | 12/12/2022 | :x: |
+| Implementing a Countdown Timer | - | 12/12/2022 | :x: |
+| :tada:LEVEL:up: | Section 13 | Advanced DOM | and Events |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648929#overview) | 12/12/2022 | :x: |
+| Section Roadmap | - | 13/12/2022 | :x: |
+| PROJECT: "Bankist" Website | - | 13/12/2022 | :x: |
+
