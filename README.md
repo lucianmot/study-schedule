@@ -113,7 +113,7 @@ Sprint end date: 23/12/2022
 | Destructuring Objects | - | 08/12/2022 | :x: |
 | The Spread Operator(...) | - | 08/12/2022 | :x: |
 | Rest Pattern and Parameters | - | 08/12/2022 | :x: |
-| Short Circuting(&& and ||) | - | 09/12/2022 | :x: |
+| Short Circuting(AND and OR) | - | 09/12/2022 | :x: |
 | The Nullish Coalescing Operator(??) | - | 09/12/2022 | :x: |
 | Logical Assignment Operators | - | 09/12/2022 | :x: |
 | Coding Challenge #1 | - | 09/12/2022 | :x: |
