@@ -251,23 +251,62 @@ Sprint end date: 23/12/2022
 | Move to Marker On Click | - | 15/12/2022 | :x: |
 | Working with localStorage | - | 15/12/2022 | :x: |
 | Final Considerations | - | 15/12/2022 | :x: |
-| :tada:LEVEL:up: | Section 15 | Asynchronous JavaScript: Promises | Async/Await, and AJAX |
+| :tada:LEVEL:up: | Section 16 | Asynchronous JavaScript: Promises | Async/Await, and AJAX |
 | Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649275#overview) | 15/12/2022 | :x: |
 | Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
-| Section Roadmap | - | 16/12/2022 | :x: |
+| Asynchrnous JavaScript, AJAx and APIs | - | 16/12/2022 | :x: |
+| How the Web Works: Requests and Responses | - | 16/12/2022 | :x: |
+| Welcome to Callback Hell | - | 16/12/2022 | :x: |
+| Promises and the Fetch API | - | 16/12/2022 | :x: |
+| Consuming Promises | - | 16/12/2022 | :x: |
+| Chaining Promises | - | 16/12/2022 | :x: |
+| Handling Rejected Promises | - | 16/12/2022 | :x: |
+| Throwing Errors Manually | - | 16/12/2022 | :x: |
+| Coding Challenge #1 | - | 16/12/2022 | :x: |
+| Asynchronous Behind the Scenes: The Event Loop | - | 16/12/2022 | :x: |
+| The Event Loop in Practice | - | 16/12/2022 | :x: |
+| Building a Simple Promise | - | 16/12/2022 | :x: |
+| Promisifying the Geolocation API | - | 16/12/2022 | :x: |
+| Coding Challenge #2 | - | 16/12/2022 | :x: |
+| Consuming Promises with Async/Await | - | 16/12/2022 | :x: |
+| Error Handling With try...catch | - | 16/12/2022 | :x: |
+| Return Values from Async Funtions | - | 17/12/2022 | :x: |
+| Running Promises in Parallel | - | 17/12/2022 | :x: |
+| Other Promise Combinators: race, all Settled and any | - | 17/12/2022 | :x: |
+| Coding Challenge #3 | - | 17/12/2022 | :x: |
+| :tada:LEVEL:up: | Section 17 | Modern JavaScript Development | Modules, Tooling and Functional |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649439#overview) | 17/12/2022 | :x: |
+| Section Roadmap | - | 17/12/2022 | :x: |
+| An Overview of Modern JavaScript Development | - | 17/12/2022 | :x: |
+| An Overview of Modules in JavaScript | - | 17/12/2022 | :x: |
+| Exporting and Importing in ES6 Modules | - | 17/12/2022 | :x: |
+| Top-Level await(ES2022) | - | 17/12/2022 | :x: |
+| The Module Pattern | - | 17/12/2022 | :x: |
+| CommonJS Modules | - | 17/12/2022 | :x: |
+| A Brief Introduction to the Command Line | - | 17/12/2022 | :x: |
+| Introduction to NPM | - | 17/12/2022 | :x: |
+| Bundling With Parcel and NPM Scripts | - | 17/12/2022 | :x: |
+| Configuring Babel and Polyfiling | - | 17/12/2022 | :x: |
+| Review: Writing Clean and Modern JavaScript | - | 17/12/2022 | :x: |
+| Let's Fix Some Bad Code: Part 1 | - | 17/12/2022 | :x: |
+| Declarative and Functional JavaScript Principles | - | 17/12/2022 | :x: |
+| Let's Fix Some Bad Code: Part 2 | - | 17/12/2022 | :x: |
+| :tada:LEVEL:up: | Section 18 | Forkify App | Building a Modern Application |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649527#overview) | 17/12/2022 | :x: |
+| Section Roadmap | - | 18/12/2022 | :x: |
+| Project Overview and Planning(I) | - | 18/12/2022 | :x: |
+| Latest Code Updates(Parcel v2 and more) | - | 18/12/2022 | :x: |
+| Loading a Recipe from API | - | 18/12/2022 | :x: |
+| Rendering the Recipe | - | 18/12/2022 | :x: |
+| Listening For load and haschange Events | - | 18/12/2022 | :x: |
+| The MVC Architecture | - | 18/12/2022 | :x: |
+| Refactoring for MVC | - | 18/12/2022 | :x: |
+| Helpers and Configuration Files | - | 18/12/2022 | :x: |
+| Event Handlers in MVC: Publisher-Subscriber Pattern | - | 18/12/2022 | :x: |
+| Implementing Erro and Success Messages | - | 18/12/2022 | :x: |
+| Implementing Search Reults - Part 1 | - | 18/12/2022 | :x: |
+| Implementing Search Reults - Part 2 | - | 18/12/2022 | :x: |
+| Implementing Pagination - Part 1 | - | 18/12/2022 | :x: |
+| Implementing Pagination - Part 2 | - | 18/12/2022 | :x: |
+| Project Plannig(II) | - | 18/12/2022 | :x: |
+| Section Roadmap | - | 18/12/2022 | :x: |
