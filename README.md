@@ -193,3 +193,81 @@ Sprint end date: 23/12/2022
 | Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648929#overview) | 12/12/2022 | :x: |
 | Section Roadmap | - | 13/12/2022 | :x: |
 | PROJECT: "Bankist" Website | - | 13/12/2022 | :x: |
+| How the DOM Really Works | - | 13/12/2022 | :x: |
+| Selecting, Creating, and Deleting Elements | - | 13/12/2022 | :x: |
+| Styles, Attributes and Classes | - | 13/12/2022 | :x: |
+| Implementing Smooth Scrolling | - | 13/12/2022 | :x: |
+| Types of Events and Event Handlers | - | 13/12/2022 | :x: |
+| Event Propagation: Bubbling and Capturing | - | 13/12/2022 | :x: |
+| Event Propagation in Practice | - | 13/12/2022 | :x: |
+| Event Delegation: Implementing Page Navigation | - | 13/12/2022 | :x: |
+| DOM Traversing | - | 13/12/2022 | :x: |
+| Building a Tabbed Component | - | 13/12/2022 | :x: |
+| Passing Arguments to Event Handlers | - | 13/12/2022 | :x: |
+| Implementing a Sticky Navigation: The Scroll Event | - | 13/12/2022 | :x: |
+| A Better Way: The Intersection Observer API | - | 13/12/2022 | :x: |
+| Revealing Elements on Scroll | - | 13/12/2022 | :x: |
+| Lazy Loading Images | - | 13/12/2022 | :x: |
+| Building a Slider Component: Part 1 | - | 13/12/2022 | :x: |
+| Building a Slider Component: Part 2 | - | 13/12/2022 | :x: |
+| LifeCycle DOM Events | - | 13/12/2022 | :x: |
+| Efficient Script Loading: defer and async | - | 13/12/2022 | :x: |
+| :tada:LEVEL:up: | Section 14 | Object-Oriented Programming | (OOP) With JavaScript |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649023#overview) | 13/12/2022 | :x: |
+| Section Roadmap | - | 14/12/2022 | :x: |
+| What is Object-Oriented Programming? | - | 14/12/2022 | :x: |
+| OOP in JavaScript | - | 14/12/2022 | :x: |
+| Constructor Functions and the new Operator | - | 14/12/2022 | :x: |
+| Prototypes | - | 14/12/2022 | :x: |
+| Prototypal Inheritance on Built-In Objects | - | 14/12/2022 | :x: |
+| Coding Challenge #1 | - | 14/12/2022 | :x: |
+| ES6 Classes | - | 14/12/2022 | :x: |
+| Setters and Getters | - | 14/12/2022 | :x: |
+| Static Methods | - | 14/12/2022 | :x: |
+| Object.create | - | 14/12/2022 | :x: |
+| Coding Challenge #2 | - | 14/12/2022 | :x: |
+| Inheritance Between "Classes": Constructor Functions | - | 14/12/2022 | :x: |
+| Coding Challenge #3 | - | 14/12/2022 | :x: |
+| Inheritance Between "Classes: ES6 Classes | - | 14/12/2022 | :x: |
+| Another Class Example | - | 14/12/2022 | :x: |
+| Encapsulation: Protected Properties and Methods | - | 14/12/2022 | :x: |
+| Encapsulation: Private Class Fields and Methods | - | 14/12/2022 | :x: |
+| Chaining Methods | - | 14/12/2022 | :x: |
+| ES6 Classes Summary | - | 14/12/2022 | :x: |
+| Coding Challenge #4 | - | 14/12/2022 | :x: |
+| :tada:LEVEL:up: | Section 15 | Mapty APP: OOP, Geolocation | External Libraries, and More! |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22655623#overview) | 14/12/2022 | :x: |
+| Section Roadmap | - | 15/12/2022 | :x: |
+| Project Overview | - | 15/12/2022 | :x: |
+| How to Plan a Web Project | - | 15/12/2022 | :x: |
+| Displaying a map Using Leaflet Library | - | 15/12/2022 | :x: |
+| Displaying a Map Marker | - | 15/12/2022 | :x: |
+| Rendering Workout Input Form | - | 15/12/2022 | :x: |
+| Project Architecture | - | 15/12/2022 | :x: |
+| Refactoring for Project Architecture | - | 15/12/2022 | :x: |
+| Managing Workout Data: Creating Classes | - | 15/12/2022 | :x: |
+| Creating a New Workout | - | 15/12/2022 | :x: |
+| Rendering Workouts | - | 15/12/2022 | :x: |
+| Move to Marker On Click | - | 15/12/2022 | :x: |
+| Working with localStorage | - | 15/12/2022 | :x: |
+| Final Considerations | - | 15/12/2022 | :x: |
+| :tada:LEVEL:up: | Section 15 | Asynchronous JavaScript: Promises | Async/Await, and AJAX |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649275#overview) | 15/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
+| Section Roadmap | - | 16/12/2022 | :x: |
