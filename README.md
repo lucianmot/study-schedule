@@ -113,7 +113,7 @@ Sprint end date: 23/12/2022
 | Destructuring Objects | - | 08/12/2022 | :x: |
 | The Spread Operator(...) | - | 08/12/2022 | :x: |
 | Rest Pattern and Parameters | - | 08/12/2022 | :x: |
-| Short Circuting(AND and OR) | - | 09/12/2022 | :x: |
+| Short Circuting(&& and II) | - | 09/12/2022 | :x: |
 | The Nullish Coalescing Operator(??) | - | 09/12/2022 | :x: |
 | Logical Assignment Operators | - | 09/12/2022 | :x: |
 | Coding Challenge #1 | - | 09/12/2022 | :x: |
@@ -306,7 +306,27 @@ Sprint end date: 23/12/2022
 | Implementing Erro and Success Messages | - | 18/12/2022 | :x: |
 | Implementing Search Reults - Part 1 | - | 18/12/2022 | :x: |
 | Implementing Search Reults - Part 2 | - | 18/12/2022 | :x: |
-| Implementing Pagination - Part 1 | - | 18/12/2022 | :x: |
-| Implementing Pagination - Part 2 | - | 18/12/2022 | :x: |
-| Project Plannig(II) | - | 18/12/2022 | :x: |
-| Section Roadmap | - | 18/12/2022 | :x: |
+| Implementing Pagination - Part 1 | - | 19/12/2022 | :x: |
+| Implementing Pagination - Part 2 | - | 19/12/2022 | :x: |
+| Project Plannig(II) | - | 19/12/2022 | :x: |
+| Updating Recipes Servings | - | 19/12/2022 | :x: |
+| Developing a DOM Updating Algorithm | - | 19/12/2022 | :x: |
+| Implementing Bookmarks - Part 1 | - | 19/12/2022 | :x: |
+| Implementing Bookmarks - Part 2 | - | 19/12/2022 | :x: |
+| Storing Bookmarks with localStorage | - | 19/12/2022 | :x: |
+| Project Planing(III) | - | 19/12/2022 | :x: |
+| Uploading a New Recipe - Part 1 | - | 20/12/2022 | :x: |
+| Uploading a New Recipe - Part 2 | - | 20/12/2022 | :x: |
+| Uploading a New Recipe - Part 3 | - | 20/12/2022 | :x: |
+| Wrapping Up: Final Considerations | - | 20/12/2022 | :x: |
+| :tada:LEVEL:up: | Section 19 | Setting Up Git | and Deployment |
+| Section Intro | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649659#overview) | 20/12/2022 | :x: |
+| Section Roadmap | - | 20/12/2022 | :x: |
+| Simple Deployment With Netlify | - | 20/12/2022 | :x: |
+| Setting Up Git and GitHub | - | 20/12/2022 | :x: |
+| Git Fundamentals | - | 20/12/2022 | :x: |
+| Pushing to GitHub | - | 20/12/2022 | :x: |
+| Setting Up Continuos Integration With Netlify | - | 20/12/2022 | :x: |
+| :tada:LEVEL:up: | Section 20 | The | End! |
+| Where to Go from Here | [Link](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649727#overview) | 20/12/2022 | :x: |
+| My Other Courses + Updates | - | 20/12/2022 | :x: |
